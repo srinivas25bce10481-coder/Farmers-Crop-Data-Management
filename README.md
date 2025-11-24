@@ -35,12 +35,12 @@ This project is a simple, browser-based data management application designed to 
     *(Note: `sqlite3` is included with the standard Python library.)*
 
 3.  **Save the Code:**
-    Save the provided Python code as a file named `app.py` (or similar).
+    Save the provided Python code as a file named Farmers Crop Data Management.py .
 
 4.  **Run the Application:**
     Execute the following command in your terminal from the project directory:
     ```bash
-    streamlit run app.py
+    streamlit run Farmers Crop Data Management.py
     ```
 
 5.  **Access the App:**
@@ -52,5 +52,5 @@ This project is a simple, browser-based data management application designed to 
 3.  Navigate to **'Record Production'**. Select a farmer and a crop, enter a year (e.g., 2024), and a quantity (e.g., 5.5). Record several different entries for the same farmer.
 4.  Navigate to **'View Report'**. Select the farmer you added data for. Click **'Show Report'** to verify that all recorded production data is displayed correctly in the table.
 
-## Screenshots (optional but recommended)
-*(Add screenshots of your running Streamlit app here, showing the main entry form and the report view.)*
+## Screenshots 
+![](Screenshot%201.png)
