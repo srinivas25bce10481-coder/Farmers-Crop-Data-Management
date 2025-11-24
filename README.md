@@ -54,3 +54,6 @@ This project is a simple, browser-based data management application designed to 
 
 ## Screenshots 
 ![](Screenshot%201.png)
+![](Screenshot%202.png)
+![](Screenshot%203.png)
+![](Screenshot%204.png)
